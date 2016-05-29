@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BTSensor</string>
+    <string name="bt_nosupport">Bluetooth not supported by this device</string>
+    <string name="bt_usercancel">This application needs bluetooth to function</string>
+</resources>
